@@ -1,0 +1,23 @@
+{
+  "name": "citystate",
+  "version": "0.0.1",
+  "description": "Simple state handler with debounced change emitter.",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrwkmn/citystate.git"
+  },
+  "author": "Roger Wakeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgrwkmn/citystate/issues"
+  },
+  "homepage": "https://github.com/rgrwkmn/citystate#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
