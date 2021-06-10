@@ -2,7 +2,7 @@
 
 ### cjs
 
-Here is how require citystate in commonjs code. The rest of the documentation is shown using es6 modules.
+Here is how to require citystate in commonjs code. The rest of the documentation is shown using es6 modules.
 
 ```javascript
 const citystate = require('citystate');
